@@ -36,4 +36,4 @@ The dashboard is built using a Python class (`QuantumSecurityDashboard`) within 
 
 ---
 *Created as part of the QPoland Hackathon 2025, Open Track: Quantum Cryptography Focus.*
-*Project by [Your Team Name, if applicable] / **Noor** (Qiskit Advocate)| Friend of OQI.CERN*
+*Project by QuantumCrazy Team/ **Noor** (Qiskit Advocate)| Friend of OQI.CERN*
